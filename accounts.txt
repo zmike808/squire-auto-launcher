@@ -1,1 +1,4 @@
 username,password,world,proxy
+johndoe@gmail.com,JohnSucksCock123,477,ip:port:username:pass
+ip:port:username:pass (if you just want to launch a client with only a proxy and nothing else)
+# a client or account/proxy that you had enabled and wish to temporarily disable. put a # infront of it!
